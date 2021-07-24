@@ -1,6 +1,5 @@
 package lupogryph.exemple.quarkus;
 
-import lupogryph.exemple.quarkus.ExempleObjectContextInitializerImpl;
 import lombok.extern.slf4j.Slf4j;
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 import org.infinispan.configuration.global.GlobalConfiguration;

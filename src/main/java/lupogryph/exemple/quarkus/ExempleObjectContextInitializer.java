@@ -5,7 +5,7 @@ import org.infinispan.protostream.annotations.AutoProtoSchemaBuilder;
 
 @AutoProtoSchemaBuilder(
         includeClasses = {ExempleObject.class},
-        schemaPackageName = "fr.icefeather.exemple.quarkus.cache"
+        schemaPackageName = "lupogryph.exemple.quarkus"
 )
 public interface ExempleObjectContextInitializer extends SerializationContextInitializer {
 }
