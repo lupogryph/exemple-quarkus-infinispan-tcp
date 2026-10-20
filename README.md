@@ -1,6 +1,6 @@
 # Quarkus infinispan cluster project template
 
-Sample quarkus application project for creating apps with can share their cache through TCP layer (with jgroups)
+Sample quarkus application project for creating apps that can share their cache through TCP layer (with jgroups)
 
 JDK 11
 
